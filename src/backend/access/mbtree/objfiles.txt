@@ -1,0 +1,1 @@
+src/backend/access/mbtree/mbtree.o src/backend/access/mbtree/mbtreeinsert.o src/backend/access/mbtree/mbtreepage.o src/backend/access/mbtree/mbtreexlog.o src/backend/access/mbtree/mbtreesort.o src/backend/access/mbtree/mbtreeutils.o src/backend/access/mbtree/mbtreecompare.o src/backend/access/mbtree/mbtreesearch.o

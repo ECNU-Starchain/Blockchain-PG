@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mbtree.h": "c",
+        "nodeindexscan.h": "c",
+        "printtup.h": "c"
+    }
+}

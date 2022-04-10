@@ -1,0 +1,1 @@
+src/backend/mbt/hashmap.o src/backend/mbt/pgvector.o src/backend/mbt/sha256.o src/backend/mbt/vibuilder.o src/backend/mbt/mbtree.o
