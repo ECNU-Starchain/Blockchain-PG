@@ -28,3 +28,34 @@ Inside the `src` directory are the following important directories:
 - `storage`: contains the implementation of Blockchain PG;
 - `include/mbt`: contains header files of MBT.
 - `backend/mbt`: contains the implementation of MBT.
+
+### Using
+
+------
+
+Run `compile.sh` to generate executable file, the using of Blockchain PG is same as original postgresql, you can refer to [postgresql's docs][doc].
+
+[doc]: https://www.postgresql.org/docs/
+
+Blockchain PG support authenticated query and trace query to achieves integrity, correctness and traceability of data.
+
+#### Authenticated query case:
+
+* Insert operation:
+
+![](./imgs/insert.png)
+
+* Authenticated query:
+
+![](./imgs/auth-query.png)
+
+#### Trace query case:
+
+* Trace query:
+
+![](./imgs/trace-query.png)
+
+
+
+
+
